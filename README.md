@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the Frontend Developer Spring18 playground
+
+Here the fun begins...
+
+
+### GitHub Pages instructions
 
 You can use the [editor on GitHub](https://github.com/beutnagel/frontend-spring18/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
