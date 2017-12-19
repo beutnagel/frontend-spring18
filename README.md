@@ -2,6 +2,8 @@
 
 Here the fun begins...
 
+Check out the [GitHub Pages](https://beutnagel.github.io/frontend-spring18/) for this repository.
+
 
 ### GitHub Pages instructions
 
